@@ -1,0 +1,61 @@
+TRACKERQUE IS NOTHING BUT "TRACKER".
+**BUS TRACKING SYSTEM USING GPS**
+
+ABSTRACT:
+
+-->The goal of this project is to develop a smartphone app that will allow college students to track the whereabouts of their buses in real time.
+-->The app's goal is to provide students with a stress-free, convenient, and effective way of tracking their college buses while also saving them time
+and keeping them updated about bus timetables. 
+-->This software will allow students to quickly and easily determine the whereabouts of their college buses, 
+the projected arrival time, and any possible delays by harnessing the power of GPS tracking and Google Maps technology.
+-->  Additionally, the app will notify students if there are any emergency or unforeseen changes to the bus routes or schedules. 
+Overall, the objective of this college bus tracking app is to provide an efficient and user-friendly transportation solution for college students.
+
+OBJECTIVES:
+
+-->To deliver an efficient and accurate system for tracking college buses in real time for enhanced administration and student safety.
+-->To create an efficient and easy to use mobile application which enables students and staff to track bus location, and get notifications about changes in bus routes or timetables.
+--Reduce waiting times and the frequency of missed buses by introducing an automated system that improves bus routes and schedules based on demand.
+-->To improve communication between college administration, drivers, and passengers by offering a two-way communication channel through which users can submit difficulties, 
+feedback, or emergency situations.
+
+INTRDUCTION:
+
+
+-->Getting to college on time can be difficult in today's fast-paced society. Students frequently rely buses to get to college on time. 
+-->It may lead the Students missing courses or crucial events due to traffic, unforeseen delays, or unknown routes. This is when a college bus tracking system comes in handy. 
+-->So we planned to provide real-time information to students, teachers, and administrators by establishing a bus tracking system, 
+allowing them to follow the exact location of the bus, the expected time of arrival, and any potential delays. 
+-->This project intends to design and create a college bus tracking system to improve student transportation, increase safety, and save time for all college bus users.
+
+**HARDWARE:
+       
+-->NODE MCU
+
+-->GPS MODULE(NEO 6M)
+
+
+**SOFTWARE:
+
+--.ARDUINO IDE
+
+-->THINGSPEAK
+
+-->MIT APP INVERTER
+
+FUTURE SCOPE:
+
+-->The future scope of GPS tracking using the NEO-6M GPS module and ESP8266 is promising,
+with the potential for further advancements and applications. Some of the future developments in this technology could include:
+-->Integration with other sensors: The GPS tracking system could be integrated with other sensors such as accelerometers, temperature sensors,
+and humidity sensors to provide additional information about the environment and the conditions of the device being tracked.
+
+CONCLUSION:
+
+Finally, the college bus tracking software is innovative and essential for the efficient functioning of college transportation.
+ Students can use this app to stay informed about bus routes and schedules, reducing waiting time and increasing productivity.
+ Furthermore, the real-time tracking tool offers precise information about the buses' whereabouts, ensuring on-time pickups and drop-offs. 
+Students may access information whenever and wherever they want thanks to the app's user-friendly UI and easy navigation
+ Overall, the college bus tracking software is a fantastic addition to campus transportation, providing students with convenience, efficiency, and safety.
+
+
